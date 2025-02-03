@@ -21,3 +21,16 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+# Environment files
+.env
+
+# Composer dependencies
+/vendor/
+
+# Node modules
+/node_modules/
+
+# Laravel cache and logs
+/storage/framework/cache/*
+/storage/logs
+
